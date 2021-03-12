@@ -1,5 +1,12 @@
 # FDS
 
+# Pratical 1
+pandas
+matlab
+python
+seaborn
+numpy
+
 # Practical 2
 # Data Collection and Datasets
 1. From .csv Files
